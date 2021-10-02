@@ -9,13 +9,10 @@ TBD
 </p>
 
 <h2>Teams</h2>
-<p>
 
 | AL EAST | &nbsp; | NL EAST |
 | ----- |----- | ----- |
 | <img src="/cfa21/images/bal.png"><img src="/cfa21/images/bos.png"><img src="/cfa21/images/mtl.png"><img src="/cfa21/images/nyy.png"><img src="/cfa21/images/was.png"> | &nbsp; | <img src="/cfa21/images/atl.png"><img src="/cfa21/images/mia.png"><img src="/cfa21/images/nym.png"><img src="/cfa21/images/phi.png"><img src="/cfa21/images/pit.png"> |
-
-</p>
 
 | AL CENTRAL | &nbsp; | NL CENTRAL |
 | ----- |----- | ----- |
