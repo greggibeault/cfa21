@@ -10,17 +10,17 @@ TBD
 
 <h2>Teams</h2>
 
-| AL EAST | &nbsp; | NL EAST |
-| ----- |----- | ----- |
-| <img src="/cfa21/images/bal.png"><img src="/cfa21/images/bos.png"><img src="/cfa21/images/mtl.png"><img src="/cfa21/images/nyy.png"><img src="/cfa21/images/was.png"> | &nbsp; | <img src="/cfa21/images/atl.png"><img src="/cfa21/images/mia.png"><img src="/cfa21/images/nym.png"><img src="/cfa21/images/phi.png"><img src="/cfa21/images/pit.png"> |
+| AL EAST | &nbsp;&nbsp;&nbsp;&nbsp; | NL EAST |
+| ----- | ----- | ----- |
+| <img src="/cfa21/images/bal.png"><img src="/cfa21/images/bos.png"><img src="/cfa21/images/mtl.png"><img src="/cfa21/images/nyy.png"><img src="/cfa21/images/was.png"><br /><br /> | &nbsp;&nbsp;&nbsp;&nbsp; | <img src="/cfa21/images/atl.png"><img src="/cfa21/images/mia.png"><img src="/cfa21/images/nym.png"><img src="/cfa21/images/phi.png"><img src="/cfa21/images/pit.png"> |
 
-| AL CENTRAL | &nbsp; | NL CENTRAL |
-| ----- |----- | ----- |
-| <img src="/cfa21/images/chw.png"><img src="/cfa21/images/cle.png"><img src="/cfa21/images/det.png"><img src="/cfa21/images/min.png"><img src="/cfa21/images/tor.png"> | &nbsp; | <img src="/cfa21/images/chc.png"><img src="/cfa21/images/cin.png"><img src="/cfa21/images/hou.png"><img src="/cfa21/images/mil.png"><img src="/cfa21/images/stl.png"> |
+| AL CENTRAL | &nbsp;&nbsp;&nbsp;&nbsp; | NL CENTRAL |
+| ----- | ----- | ----- |
+| <img src="/cfa21/images/chw.png"><img src="/cfa21/images/cle.png"><img src="/cfa21/images/det.png"><img src="/cfa21/images/min.png"><img src="/cfa21/images/tor.png"><br /><br /> | &nbsp;&nbsp;&nbsp;&nbsp; | <img src="/cfa21/images/chc.png"><img src="/cfa21/images/cin.png"><img src="/cfa21/images/hou.png"><img src="/cfa21/images/mil.png"><img src="/cfa21/images/stl.png"> |
 
-| AL WEST | &nbsp; | NL WEST |
-| ----- |----- | ----- |
-| <img src="/cfa21/images/kcr.png"><img src="/cfa21/images/laa.png"><img src="/cfa21/images/oak.png"><img src="/cfa21/images/sea.png"><img src="/cfa21/images/tex.png"> | &nbsp; | <img src="/cfa21/images/ari.png"><img src="/cfa21/images/col.png"><img src="/cfa21/images/lad.png"><img src="/cfa21/images/sdp.png"><img src="/cfa21/images/sfg.png"> |
+| AL WEST | &nbsp;&nbsp;&nbsp;&nbsp; | NL WEST |
+| ----- | ----- | ----- |
+| <img src="/cfa21/images/kcr.png"><img src="/cfa21/images/laa.png"><img src="/cfa21/images/oak.png"><img src="/cfa21/images/sea.png"><img src="/cfa21/images/tex.png"><br /><br /> | &nbsp;&nbsp;&nbsp;&nbsp; | <img src="/cfa21/images/ari.png"><img src="/cfa21/images/col.png"><img src="/cfa21/images/lad.png"><img src="/cfa21/images/sdp.png"><img src="/cfa21/images/sfg.png"> |
 
 <p>
 <h2>Calendar</h2>
