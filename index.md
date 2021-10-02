@@ -10,7 +10,7 @@ title: Curt Flood Association
 
 | AL EAST | NL EAST |
 | ----- |----- |
-| <img src="/cfa21/images/bal.png"><img src="/cfa21/images/bos.png"><img src="/cfa21/images/tbr.png"><img src="/cfa21/images/nyy.png"><img src="/cfa21/images/was.png"> | <img src="/cfa21/images/atl.png"><img src="/cfa21/images/mia.png"><img src="/cfa21/images/nym.png"><img src="/cfa21/images/phi.png"><img src="/cfa21/images/pit.png"> |
+| <img src="/cfa21/images/bal.png"><img src="/cfa21/images/bos.png"><img src="/cfa21/images/mtl.png"><img src="/cfa21/images/nyy.png"><img src="/cfa21/images/was.png"> | <img src="/cfa21/images/atl.png"><img src="/cfa21/images/mia.png"><img src="/cfa21/images/nym.png"><img src="/cfa21/images/phi.png"><img src="/cfa21/images/pit.png"> |
 
 | AL CENTRAL | NL CENTRAL |
 | ----- |----- |
