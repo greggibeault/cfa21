@@ -11,13 +11,19 @@ title: Curt Flood Association
 <tr>
 <th>AL EAST</th><th>NL EAST</th>
 </tr>
+<tr>
 <td><img src="/cfa21/images/ari.png"><img src="/cfa21/images/atl.png"><img src="/cfa21/images/bal.png"><img src="/cfa21/images/bos.png"><img src="/cfa21/images/chw.png"></td>
 </tr>
+<tr>
 <th>AL EAST</th><th>NL EAST</th>
 </tr>
+<tr>
 <td><img src="/cfa21/images/ari.png"><img src="/cfa21/images/atl.png"><img src="/cfa21/images/bal.png"><img src="/cfa21/images/bos.png"><img src="/cfa21/images/chw.png"></td>
 </tr>
+<tr>
 <th>AL EAST</th><th>NL EAST</th>
 </tr>
+<tr>
 <td><img src="/cfa21/images/ari.png"><img src="/cfa21/images/atl.png"><img src="/cfa21/images/bal.png"><img src="/cfa21/images/bos.png"><img src="/cfa21/images/chw.png"></td>
 </tr>
+</table>
